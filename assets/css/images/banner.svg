@@ -1,54 +1,84 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1800px" height="900px" viewBox="0 0 1800 900" zoomAndPan="disable">
-
-    <style type="text/css"><![CDATA[
-		line
-		{
-			stroke: rgba(255,255,255,0.125);
-			stroke-width: 0.85px;
-		}
-		
-		polygon
-		{
-			fill: rgba(255,255,255,0.075);
-		}
-    ]]></style>
-    
-	<!-- Middle line -->
-		<line x1="900" y1="0" x2="900" y2="900" />
-
-	<!-- Lines -->
-		<line x1="0" y1="0" x2="900" y2="900" />
-		<line x1="100" y1="0" x2="900" y2="800" />
-		<line x1="200" y1="0" x2="900" y2="700" />
-		<line x1="300" y1="0" x2="900" y2="600" />
-		<line x1="400" y1="0" x2="900" y2="500" />
-		<line x1="300" y1="900" x2="600" y2="600" />
-		<line x1="400" y1="900" x2="700" y2="600" />
-		<line x1="500" y1="900" x2="800" y2="600" />
-		<line x1="600" y1="900" x2="900" y2="600" />
-		<line x1="700" y1="900" x2="900" y2="700" />
-		<line x1="800" y1="900" x2="900" y2="800" />
-
-		<line x1="1800" y1="0" x2="900" y2="900" />
-		<line x1="1700" y1="0" x2="900" y2="800" />
-		<line x1="1600" y1="0" x2="900" y2="700" />
-		<line x1="1500" y1="0" x2="900" y2="600" />
-		<line x1="1400" y1="0" x2="900" y2="500" />
-		<line x1="1500" y1="900" x2="1200" y2="600" />
-		<line x1="1400" y1="900" x2="1100" y2="600" />
-		<line x1="1300" y1="900" x2="1000" y2="600" />
-		<line x1="1200" y1="900" x2="900" y2="600" />
-		<line x1="1100" y1="900" x2="900" y2="700" />
-		<line x1="1000" y1="900" x2="900" y2="800" />
-
-	<!-- Fills -->
-		<polygon points="300,900 600,600 650,650 700,600 750,650 800,600 850,650 900,600 900,900 900,600 950,650 1000,600 1050,650 1100,600 1150,650 1200,600 1500,900" />
-		<polygon points="350,950 650,650 700,700 750,650 800,700 850,650 900,700 900,900 900,700 950,650 1000,700 1050,650 1100,700 1150,650 1450,950" />
-		
-		<polygon points="400,1000 700,700 750,750 800,700 850,750 900,700 900,900 900,700 950,750 1000,700 1050,750 1100,700 1300,900" />
-		
-		<polygon points="450,1050 750,750 800,800 850,750 900,800 900,900 900,800 950,750 1000,800 1050,750 1350,1050" />
-		<polygon points="500,1100 800,800 850,850 900,800 900,900 900,800 950,850 1000,800 1300,1100" />
-		<polygon points="550,1150 850,850 900,900 950,850 1250,1150" />
-
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" zoomAndPan="disable"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="792 -342 1800 900"
+	 style="enable-background:new 792 -342 1800 900;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.3;fill:#FFFFFF;stroke:#FFFFFF;stroke-width:25;stroke-miterlimit:10;}
+	.st1{opacity:0.2917;fill:#FFFFFF;stroke:#FFFFFF;stroke-width:25;stroke-miterlimit:10;}
+	.st2{opacity:0.2833;fill:#FFFFFF;stroke:#FFFFFF;stroke-width:25;stroke-miterlimit:10;}
+	.st3{opacity:0.275;fill:#FFFFFF;stroke:#FFFFFF;stroke-width:25;stroke-miterlimit:10;}
+	.st4{opacity:0.2667;fill:#FFFFFF;stroke:#FFFFFF;stroke-width:25;stroke-miterlimit:10;}
+	.st5{opacity:0.2583;fill:#FFFFFF;stroke:#FFFFFF;stroke-width:25;stroke-miterlimit:10;}
+	.st6{opacity:0.25;fill:#FFFFFF;stroke:#FFFFFF;stroke-width:25;stroke-miterlimit:10;}
+	.st7{opacity:0.2417;fill:#FFFFFF;stroke:#FFFFFF;stroke-width:25;stroke-miterlimit:10;}
+	.st8{opacity:0.2333;fill:#FFFFFF;stroke:#FFFFFF;stroke-width:25;stroke-miterlimit:10;}
+	.st9{opacity:0.225;fill:#FFFFFF;stroke:#FFFFFF;stroke-width:25;stroke-miterlimit:10;}
+	.st10{opacity:0.2167;fill:#FFFFFF;stroke:#FFFFFF;stroke-width:25;stroke-miterlimit:10;}
+	.st11{opacity:0.2083;fill:#FFFFFF;stroke:#FFFFFF;stroke-width:25;stroke-miterlimit:10;}
+	.st12{opacity:0.2;fill:#FFFFFF;stroke:#FFFFFF;stroke-width:25;stroke-miterlimit:10;}
+	.st13{opacity:0.1917;fill:#FFFFFF;stroke:#FFFFFF;stroke-width:25;stroke-miterlimit:10;}
+	.st14{opacity:0.1833;fill:#FFFFFF;stroke:#FFFFFF;stroke-width:25;stroke-miterlimit:10;}
+	.st15{opacity:0.175;fill:#FFFFFF;stroke:#FFFFFF;stroke-width:25;stroke-miterlimit:10;}
+	.st16{opacity:0.1667;fill:#FFFFFF;stroke:#FFFFFF;stroke-width:25;stroke-miterlimit:10;}
+	.st17{opacity:0.1583;fill:#FFFFFF;stroke:#FFFFFF;stroke-width:25;stroke-miterlimit:10;}
+	.st18{opacity:0.15;fill:#FFFFFF;stroke:#FFFFFF;stroke-width:25;stroke-miterlimit:10;}
+	.st19{opacity:0.1417;fill:#FFFFFF;stroke:#FFFFFF;stroke-width:25;stroke-miterlimit:10;}
+	.st20{opacity:0.1333;fill:#FFFFFF;stroke:#FFFFFF;stroke-width:25;stroke-miterlimit:10;}
+	.st21{opacity:0.125;fill:#FFFFFF;stroke:#FFFFFF;stroke-width:25;stroke-miterlimit:10;}
+	.st22{opacity:0.1167;fill:#FFFFFF;stroke:#FFFFFF;stroke-width:25;stroke-miterlimit:10;}
+	.st23{opacity:0.1083;fill:#FFFFFF;stroke:#FFFFFF;stroke-width:25;stroke-miterlimit:10;}
+	.st24{opacity:0.1;fill:#FFFFFF;stroke:#FFFFFF;stroke-width:25;stroke-miterlimit:10;}
+	.st25{opacity:9.166667e-02;fill:#FFFFFF;stroke:#FFFFFF;stroke-width:25;stroke-miterlimit:10;}
+	.st26{opacity:8.333334e-02;fill:#FFFFFF;stroke:#FFFFFF;stroke-width:25;stroke-miterlimit:10;}
+	.st27{opacity:7.500000e-02;fill:#FFFFFF;stroke:#FFFFFF;stroke-width:25;stroke-miterlimit:10;}
+	.st28{opacity:6.666667e-02;fill:#FFFFFF;stroke:#FFFFFF;stroke-width:25;stroke-miterlimit:10;}
+	.st29{opacity:5.833333e-02;fill:#FFFFFF;stroke:#FFFFFF;stroke-width:25;stroke-miterlimit:10;}
+	.st30{opacity:5.000000e-02;fill:#FFFFFF;stroke:#FFFFFF;stroke-width:25;stroke-miterlimit:10;}
+	.st31{opacity:4.166667e-02;fill:#FFFFFF;stroke:#FFFFFF;stroke-width:25;stroke-miterlimit:10;}
+	.st32{opacity:3.333334e-02;fill:#FFFFFF;stroke:#FFFFFF;stroke-width:25;stroke-miterlimit:10;}
+	.st33{opacity:2.500000e-02;fill:#FFFFFF;stroke:#FFFFFF;stroke-width:25;stroke-miterlimit:10;}
+	.st34{opacity:1.666667e-02;fill:#FFFFFF;stroke:#FFFFFF;stroke-width:25;stroke-miterlimit:10;}
+	.st35{opacity:8.333334e-03;fill:#FFFFFF;stroke:#FFFFFF;stroke-width:25;stroke-miterlimit:10;}
+	.st36{opacity:0;fill:#FFFFFF;stroke:#FFFFFF;stroke-width:25;stroke-miterlimit:10;}
+</style>
+<g>
+	<line class="st0" x1="380.7" y1="-476.3" x2="1078.6" y2="1295.5"/>
+	<line class="st1" x1="433.2" y1="-497" x2="1131.1" y2="1274.8"/>
+	<line class="st2" x1="485.8" y1="-517.7" x2="1183.6" y2="1254.1"/>
+	<line class="st3" x1="538.3" y1="-538.4" x2="1236.2" y2="1233.4"/>
+	<line class="st4" x1="590.9" y1="-559.1" x2="1288.7" y2="1212.7"/>
+	<line class="st5" x1="643.4" y1="-579.8" x2="1341.3" y2="1192"/>
+	<line class="st6" x1="695.9" y1="-600.5" x2="1393.8" y2="1171.3"/>
+	<line class="st7" x1="748.5" y1="-621.1" x2="1446.4" y2="1150.6"/>
+	<line class="st8" x1="801" y1="-641.8" x2="1498.9" y2="1129.9"/>
+	<line class="st9" x1="853.6" y1="-662.5" x2="1551.4" y2="1109.3"/>
+	<line class="st10" x1="906.1" y1="-683.2" x2="1604" y2="1088.6"/>
+	<line class="st11" x1="958.7" y1="-703.9" x2="1656.5" y2="1067.9"/>
+	<line class="st12" x1="1011.2" y1="-724.6" x2="1709.1" y2="1047.2"/>
+	<line class="st13" x1="1063.7" y1="-745.3" x2="1761.6" y2="1026.5"/>
+	<line class="st14" x1="1116.3" y1="-766" x2="1814.2" y2="1005.8"/>
+	<line class="st15" x1="1168.8" y1="-786.7" x2="1866.7" y2="985.1"/>
+	<line class="st16" x1="1221.4" y1="-807.4" x2="1919.2" y2="964.4"/>
+	<line class="st17" x1="1273.9" y1="-828.1" x2="1971.8" y2="943.7"/>
+	<line class="st18" x1="1326.5" y1="-848.8" x2="2024.3" y2="923"/>
+	<line class="st19" x1="1379" y1="-869.5" x2="2076.9" y2="902.3"/>
+	<line class="st20" x1="1431.5" y1="-890.2" x2="2129.4" y2="881.6"/>
+	<line class="st21" x1="1484.1" y1="-910.9" x2="2182" y2="860.9"/>
+	<line class="st22" x1="1536.6" y1="-931.6" x2="2234.5" y2="840.2"/>
+	<line class="st23" x1="1589.2" y1="-952.3" x2="2287" y2="819.5"/>
+	<line class="st24" x1="1641.7" y1="-973" x2="2339.6" y2="798.8"/>
+	<line class="st25" x1="1694.3" y1="-993.7" x2="2392.1" y2="778.1"/>
+	<line class="st26" x1="1746.8" y1="-1014.4" x2="2444.7" y2="757.4"/>
+	<line class="st27" x1="1799.3" y1="-1035.1" x2="2497.2" y2="736.7"/>
+	<line class="st28" x1="1851.9" y1="-1055.7" x2="2549.8" y2="716"/>
+	<line class="st29" x1="1904.4" y1="-1076.4" x2="2602.3" y2="695.3"/>
+	<line class="st30" x1="1957" y1="-1097.1" x2="2654.8" y2="674.7"/>
+	<line class="st31" x1="2009.5" y1="-1117.8" x2="2707.4" y2="654"/>
+	<line class="st32" x1="2062.1" y1="-1138.5" x2="2759.9" y2="633.3"/>
+	<line class="st33" x1="2114.6" y1="-1159.2" x2="2812.5" y2="612.6"/>
+	<line class="st34" x1="2167.1" y1="-1179.9" x2="2865" y2="591.9"/>
+	<line class="st35" x1="2219.7" y1="-1200.6" x2="2917.6" y2="571.2"/>
+	<line class="st36" x1="2272.2" y1="-1221.3" x2="2970.1" y2="550.5"/>
+</g>
 </svg>
